@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Legacy Database</string>
+    <string name="add_new">Add New</string>
 </resources>
